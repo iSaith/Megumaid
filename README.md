@@ -7,9 +7,13 @@
 ## Commands!
   
   Megu Help: Showscase all of her commands 
+  
   Megu invite: provides an invite link
+  
   Megu reddit: Grabs a recent post (image based only) on r/Megumin
+  
   Megu quote: Grabs a random Megumin quote from http://www.animecharactersdatabase.com/animequotes.php?cid=75490! (will be up to date)
+  
   Megu explosion: Casts a explosion quote alongside the gif
   
 ## Economy!
