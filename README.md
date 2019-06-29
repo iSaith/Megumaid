@@ -1,7 +1,6 @@
 
 <img src="https://i.imgur.com/e8Rr1au.png">
-<a href="https://discordapp.com/oauth2/authorize/?permissions=537159744&scope=bot&client_id=587112134165397525"><img src="https://i.imgur.com/P8OMN2N.jpg"></a>
-<p align="center">A discord-bot handled and maintained by <a href="https://oblivionsan.tk">Oblivion さん</a></p>
+<a href="https://discordapp.com/oauth2/authorize/?permissions=537159744&scope=bot&client_id=587112134165397525"><img src="https://i.imgur.com/ElznqTa.png"></a>
 
 ## Prefix: "Megu "
   
