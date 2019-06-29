@@ -6,7 +6,7 @@
   
 ## Commands!
   
-  Megu Help: Showscase all of her commands 
+  Megu help: Showscase all of her commands 
   
   Megu invite: provides an invite link
   
