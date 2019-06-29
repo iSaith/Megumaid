@@ -16,6 +16,12 @@
   
   Megu explosion: Casts a explosion quote alongside the gif
   
+  Megu stats: Shows the overall stats of the bot (uptime, ping, servers, users, etc.)
+
+  Megu explosioncount: Shows how many explosions have been cast in all servers! (WiP)
+
+  Megu log: Creates a private channel named "megumin-log" as to which Megumin will log events (bans, pins, joins, etc)
+ 
 ## Economy!
 
   Work In Progress
