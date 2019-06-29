@@ -13,6 +13,8 @@
   Megu reddit: Grabs a recent post (image based only) on r/Megumin
   
   Megu quote: Grabs a random Megumin quote from http://www.animecharactersdatabase.com/animequotes.php?cid=75490! (will be up to date)
+  <img src="https://i.imgur.com/uNbYMPq.png">
+  
   
   Megu explosion: Casts a explosion quote alongside the gif
   
@@ -24,7 +26,6 @@
 
  - Welcome Channel! Want to have Megumin welcome new comers? Then please do make a channel named "megumin-welcome" to do so!
 
-<img src="https://i.imgur.com/pV1mXKW.png"></a>
-
+<img src="https://i.imgur.com/pV1mXKW.png">
 
 
