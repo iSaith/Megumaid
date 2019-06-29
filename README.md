@@ -4,7 +4,7 @@
 
 ## Prefix: "Megu "
   
-## <font color=black>Commands </font>
+## <Commands 
   
   Megu help: Showscase all of her commands 
   
