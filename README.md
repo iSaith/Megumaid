@@ -6,33 +6,36 @@
   
 ## Commands 
   
-  Megu help: Showscase all of her commands 
+____________________________________
   
-  Megu invite: provides an invite link
+ help: Showscase all of her commands 
   
-  Megu reddit: Grabs a recent post (image based only) on r/Megumin
+ invite: provides an invite link
   
-  Megu quote: Grabs a random Megumin quote from http://www.animecharactersdatabase.com/animequotes.php?cid=75490! (will be up to date)  
+ reddit: Grabs a recent post (image based only) on r/Megumin
   
-  Megu explosion: Casts a explosion quote alongside the gif
+ quote: Grabs a random Megumin quote from http://www.animecharactersdatabase.com/animequotes.php?cid=75490! (will be up to date)  
+ explosion: Casts a explosion quote alongside the gif
   
-  Megu stats: Shows the overall stats of the bot (uptime, ping, servers, users, etc.)
+ stats: Shows the overall stats of the bot (uptime, ping, servers, users, etc.)
 
-  Megu explosioncount: Shows how many explosions have been cast in all servers! (WiP)
+ explosioncount: Shows how many explosions have been cast in all servers! (WiP)
 
-  Megu log: Creates a private channel named "megumin-log" as to which Megumin will log events (bans, pins, joins, etc)
+ log: Creates a private channel named "megumin-log" as to which Megumin will log events (bans, pins, joins, etc)
  
-## Economy!
+ happy/cry/chomu/beer/surprised/thumbsup: Sends a reaction gif!
 
-  Work In Progress
+ economy: Get more information on the economy
 
-## Misc
+ anime: Search Kitsu for an anime!
 
-
-
-<a href="https://discordbots.org/bot/587112134165397525" >
+ manga: Search Kitsu for a manga!
+ 
+ ___________________________________
+ 
+<center> <a href="https://discordbots.org/bot/587112134165397525" >
   <img src="https://discordbots.org/api/widget/587112134165397525.svg?usernamecolor=FFFFFF&topcolor=E3513D" alt="Megumaid" />
-</a>
+</a> </center>
  
 
 
