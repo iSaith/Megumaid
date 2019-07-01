@@ -35,7 +35,8 @@ ____________________________________
  
 <center> <a href="https://discordbots.org/bot/587112134165397525" >
   <img src="https://discordbots.org/api/widget/587112134165397525.svg?usernamecolor=FFFFFF&topcolor=E3513D" alt="Megumaid" />
-</a> </center>
+</a> 
+</center>
  
 
 
