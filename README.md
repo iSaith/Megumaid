@@ -30,8 +30,9 @@
 
 
 
-  <img src="https://discordbots.org/api/widget/587112134165397525.svg?usernamecolor=FFFFFF?topcolor=0xF55253" alt="Megumaid" />
-
+<a href="https://discordbots.org/bot/587112134165397525" >
+  <img src="https://discordbots.org/api/widget/587112134165397525.svg?usernamecolor=FFFFFF&topcolor=E3513D" alt="Megumaid" />
+</a>
  
 
 
