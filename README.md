@@ -2,10 +2,11 @@
 <img src="https://i.imgur.com/e8Rr1au.png">
 <a href="https://discordapp.com/oauth2/authorize/?permissions=537159744&scope=bot&client_id=587112134165397525"><img src="https://i.imgur.com/ElznqTa.png"></a>
 
-## Prefix: "Megu"
+ 
+ <font color="black"> Prefix: "Megu" </font>
+ 
   
-## Commands 
-  
+ ## <font color="black"> Commands </font>
 ____________________________________
   
  help: Showscase all of her commands 
@@ -15,6 +16,7 @@ ____________________________________
  reddit: Grabs a recent post (image based only) on r/Megumin
   
  quote: Grabs a random Megumin quote from http://www.animecharactersdatabase.com/animequotes.php?cid=75490! (will be up to date)  
+  
  explosion: Casts a explosion quote alongside the gif
   
  stats: Shows the overall stats of the bot (uptime, ping, servers, users, etc.)
@@ -31,12 +33,13 @@ ____________________________________
 
  manga: Search Kitsu for a manga!
  
- ___________________________________
+ ________________________________
  
-<center>
+ <center> <p> Megumaid is still in development! There will be occasional downtime as updates are being pushed </center> 
+ 
+ 
+<center> <br>
   <a href="https://discordbots.org/bot/587112134165397525" >
   <img src="https://discordbots.org/api/widget/587112134165397525.svg?usernamecolor=FFFFFF&topcolor=E3513D" alt="Megumaid" />
-</a> </center>
+</a> </center> </p>
  
-
-
