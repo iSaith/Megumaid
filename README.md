@@ -2,9 +2,9 @@
 <img src="https://i.imgur.com/e8Rr1au.png">
 <a href="https://discordapp.com/oauth2/authorize/?permissions=537159744&scope=bot&client_id=587112134165397525"><img src="https://i.imgur.com/ElznqTa.png"></a>
 
-## Prefix: "Megu "
+## Prefix: "Megu"
   
-## <Commands 
+## Commands 
   
   Megu help: Showscase all of her commands 
   
@@ -28,13 +28,10 @@
 
 ## Misc
 
- - Welcome Channel! Want to have Megumin welcome new comers? Then please do make a channel named "megumin-welcome" to do so!
 
-<img src="https://i.imgur.com/pV1mXKW.png">
 
-<a>
   <img src="https://discordbots.org/api/widget/587112134165397525.svg?usernamecolor=FFFFFF?topcolor=0xF55253" alt="Megumaid" />
-</a>
+
  
 
 
